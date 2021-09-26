@@ -1,3 +1,6 @@
+- type: blog
+  title: 文章
+  url: /
 - type: dates
   title: 时光机
   url: /dates/
