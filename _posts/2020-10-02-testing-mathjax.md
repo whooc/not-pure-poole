@@ -2,6 +2,7 @@
 layout: post
 title: Testing MathJax
 tags: mathjax
+comments: true
 math: true
 date: 2020-10-02 15:32 +0800
 ---
@@ -15,3 +16,4 @@ $$
 i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
 \frac{\partial^2 \Psi}{\partial x^2} + V \Psi
 $$
+
