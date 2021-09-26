@@ -1,4 +1,6 @@
-- title: Blog
+- title: 文章
   url: /
-- title: About
+- title: 朋友
+  url: /links/
+- title: 关于
   url: /about/
